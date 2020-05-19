@@ -1,1 +1,1 @@
-# PenelopePG_EEG-ADHD
+# P-n-lopePG_EEG-ADHD
