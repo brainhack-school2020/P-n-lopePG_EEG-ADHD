@@ -1,4 +1,4 @@
-# P-n-lopePG_EEG-ADHD
+# PenelopePG_EEG-ADHD
 This project is realized as part of the Brainhack School 2020.
 
 Summary:
