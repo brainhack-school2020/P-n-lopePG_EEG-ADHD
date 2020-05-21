@@ -2,16 +2,6 @@
 ## PenelopePG_EEG-ADHD
 This project is realized as part of the Brainhack School 2020.
 
-#Summary
-ADHD is a neurodevelopmental disorder which manifests itself through a variety of cognitive and 
-behavioral symptoms. It is well known in the ADHD litterature that there are many subtypes of this
-disorder, but there is much controversy as to what those subtypes represent and how many are accurate. 
-Those subtypes are also mostly based on behavioral and self-report data and not on neurophysiological 
-assessment.
-
-# PenelopePG_EEG-ADHD
-This project is realized as part of the Brainhack School 2020.
-
 Summary:
 ADHD is a neurodevelopmental disorder which manifests itself through a variety of cognitive and 
 behavioral symptoms. It is well known in the ADHD litterature that there are many subtypes of this
@@ -93,7 +83,6 @@ TBA
 
 #Tools I learned during this project
 TBA
-
 
 
 Deliverables:
