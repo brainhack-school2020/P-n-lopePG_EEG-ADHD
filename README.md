@@ -1,6 +1,6 @@
 
 ## PenelopePG_EEG-ADHD
-This project is realized as part of the Brainhack School 2020.
+This project is realized as part of the Brainhack School 2020 and in collaboration with Béatrice De Koninck
 
 Summary:
 ADHD is a neurodevelopmental disorder which manifests itself through a variety of cognitive and 
@@ -8,11 +8,9 @@ behavioral symptoms. It is well known in the ADHD litterature that there are man
 disorder, but not all research papers agree on what these subtypes are. Those subtypes are also
 mostly based on behavioral and self-report data and not on neurophysiological assessment.
 
-
 Using EEG data from young adults with ADHD, we will investigate the presence of subtypes and
 the possible associations between the reported and behavioral symptoms and the different 
 amplitude and distribution of the brainwaves.
-
 
 
 #Details
@@ -43,30 +41,10 @@ among our sample by clustering and predict labels for new samples based on the c
 This method will be executed in parallel with another more well know method; clustering and classification.
 
 
-Details:
-Our sample consists of 209 college students with ADHD. EEG was performed using a 32 channel 
-electrodes cap while participants were resting with their eyes opened for 5 minutes. Time-frequency 
-analysis were performed in order to extract the mean amplitude of each frequency for each electrode.
-Neuropsychological measures include
-- Conners questionnaire (self-report)
-- WAIS-IV working memory subscale
-- IVA-II behavioral test
-
-Analyses:
-
-Using clustering, we will identify which symtoms of ADHD are present in the same individuals; identifying
-possible subtypes of the disorder. Those clusters will then serve as label for a classification 
-algorithm whose task will be to predict the ADHD subtype of participants using EEG data. 
-This will be realized using python, more specifically jupyter notebooks. 
-
-
 #Tools
 Network Similarity Fusion
 Clustering
 Classification algorithm (to be determined)
-
-Tools:
-
 Jupyter Notebook
 GitHub
 Python
@@ -81,17 +59,12 @@ The project will also be published in a github repository.
 #Results
 TBA
 
-#Tools I learned during this project
-TBA
+#Tools plan on learning for this project
+MNE python
+Similarity Fusion
+GitHub
+BIDS
+Get more proficient in python
 
 
-Deliverables:
-We plan on making our data-set BIDS-compatible using MNE python. 
-The project will also be published in a github repository.
-
-Results:
-TBA
-
-Tools I learned during this project:
-TBA
 
