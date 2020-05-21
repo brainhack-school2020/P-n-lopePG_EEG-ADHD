@@ -13,7 +13,7 @@ the possible associations between the reported and behavioral symptoms and the d
 amplitude and distribution of the brainwaves.
 
 
-#Details
+Details
 Our sample consists of 92 college students with ADHD. EEG was performed using a 19 channel 
 electrodes cap using the international 10-20 system while participants were resting with their eyes opened
 for 5 minutes. Time-frequency analysis were performed in order to extract the mean amplitude of each frequency for each electrode.
@@ -22,7 +22,7 @@ Neuropsychological measures include
 - WAIS-IV working memory subscale (data has not been accessed yet, but should be in the next few days)
 - IVA-II behavioral test
 
-#Analyses
+Analyses
 Our sample contains many types of data, which are very heterogenous and vary in scale (self-report, 
 behavioral and EEG).
 The simplest method in order ton investigate the role of each component would be to use normalized data.
@@ -41,7 +41,7 @@ among our sample by clustering and predict labels for new samples based on the c
 This method will be executed in parallel with another more well know method; clustering and classification.
 
 
-#Tools
+Tools
 Network Similarity Fusion
 Clustering
 Classification algorithm (to be determined)
@@ -52,14 +52,14 @@ BIDS
 MNE
 
 
-#Deliverables
+Deliverables
 We plan on making our data-set BIDS-compatible using MNE python. 
 The project will also be published in a github repository.
 
-#Results
+Results
 TBA
 
-#Tools plan on learning for this project
+Tools plan on learning for this project
 MNE python
 Similarity Fusion
 GitHub
