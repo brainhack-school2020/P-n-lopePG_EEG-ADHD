@@ -17,7 +17,7 @@ ADHD is a neurodevelopmental disorder which manifests itself through a variety o
 behavioral symptoms. It is well known in the ADHD litterature that there are many subtypes of this
 disorder, but not all research papers agree on what these subtypes are. Those subtypes are also
 mostly based on behavioral and self-report data and not on neurophysiological assessment.
->>>>>>> a526b6b05fa4074fdcf4138ac9bbfa6507ad5fdc
+
 
 Using EEG data from young adults with ADHD, we will investigate the presence of subtypes and
 the possible associations between the reported and behavioral symptoms and the different 
@@ -74,7 +74,7 @@ This will be realized using python, more specifically jupyter notebooks.
 Network Similarity Fusion
 Clustering
 Classification algorithm (to be determined)
-=======
+
 Tools:
 
 Jupyter Notebook
