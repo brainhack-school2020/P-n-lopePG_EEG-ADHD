@@ -6,7 +6,9 @@ Summary:
 ADHD is a neurodevelopmental disorder which manifests itself through a variety of cognitive and 
 behavioral symptoms. It is well known in the ADHD litterature that there are many subtypes of this
 disorder, but not all research papers agree on what these subtypes are. Those subtypes are also
-mostly based on behavioral and self-report data and not on neurophysiological assessment.
+mostly based on behavioral and self-report data and not on neurophysiological assessmentl; a need for clear
+biomarkers is needed for clarification of the identification of ADHD in adults (Hegerl et al. 2016; Olbrich,
+Dinteren & Arns, 2015).
 
 Using EEG data from young adults with ADHD, we will investigate the presence of subtypes and
 the possible associations between the reported and behavioral symptoms and the different 
